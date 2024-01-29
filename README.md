@@ -3,6 +3,7 @@ The project intent is to build an interactive Power BI dashboard to allow the us
 
 # File Requirements
 Microsoft Power BI Desktop application
+Microsoft Excel
 
 # Changing pbix file datasource
 You will need to change the files datasource in order to view the data within the report. Follow the step-by-step instructions below:
